@@ -52,9 +52,6 @@ The dashboard includes analysis of,
 
 ![Inventory & Stock Performance Dashboard](Screenshot%20(1833).png)
 
-##  Project File
-
-The Power BI `.pbix` file is included in this repository for further exploration.
 
 ##  Skills Demonstrated
 
@@ -68,3 +65,14 @@ The Power BI `.pbix` file is included in this repository for further exploration
 - KPI Development
 - Data Visualization
 - Business Intelligence
+  
+## Project Files
+- `Inventory & Stock Performance Dashboard.pbix` - Power BI dashboard file
+- `Screenshot (1833).png` - Dashboard preview
+- `README.md` - Project documentation
+
+## Author
+**Samudi Tharusha**
+
+## Skills
+Power BI | SQL | Excel | Inventory Management | Supply Chain Management | Data Analysis
